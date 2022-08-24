@@ -1,0 +1,134 @@
+.logo{
+      text-align: center; 
+      padding: 10px;  
+              
+    }
+.cuerpo{
+     display: flex; 
+     border-radius: 25px;
+     justify-content:space-between; 
+     margin-top: 20px;        
+     flex-direction: row;      
+     }
+.im1{
+    border-radius: 25px;
+}
+.im2{
+    border-radius: 25px;
+}
+.im3{
+    border-radius: 25px;
+}
+.im4{
+    border-radius: 25px;
+}
+.im5{
+    border-radius: 25px;
+}
+.lista{
+color: gold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
+'Trebuchet MS', sans-serif;
+}
+
+.sub-title{
+    display: flex;
+    margin-left: 30px;  
+    font-size: 50px;
+     color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif;
+}
+.ani{
+    border-radius: 25px; 
+    padding: 10px;
+    float: left;
+}
+.anillos{
+font-size: 20 px;
+font-weight: 400;
+}
+.pul{
+    padding: 10px;
+    border-radius: 25px;
+    float: left;
+}
+.pulceras{
+    font-size: 20 px;
+    font-weight: 400;
+}
+.huggies{
+    font-size: 20 px;
+    font-weight: 400;
+}
+.hug{
+    padding: 10px;
+    border-radius: 25px;
+    float: left;
+}
+.redes{
+    display: flex;
+    border: 1px solid black; 
+    border-bottom: 1px solid white;
+    border-top: 5px solid red;
+    justify-content:left;      
+    border-radius: 25px ;
+    margin-top: 50px;    
+   float:inline-end;
+}
+.derechos{    
+    display: flex;    
+    font-family: 'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif;
+    justify-content:last baseline;
+}
+.siguenos{
+    display: flex;
+    margin-top: 40px;
+    justify-content: flex-start;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lorem{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+
+
+/*
+.anillos{
+    border: 1px solid black;
+    background-color: white;
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 120px;
+    height: 80px;
+    line-height: 85px; 
+    text-align: center;
+    margin: 5px;   
+
+}
+.pulceras{
+    border: 1px solid black;
+    background-color: white;
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    width: 120px;
+    height: 80px;
+    line-height: 85px; 
+    text-align: center;
+    margin: 5px;   
+}
+.huggies{
+    border: 1px solid black;
+    background-color: white;
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    width: 120px;
+    height: 80px;  
+    line-height: 85px; 
+    text-align: center;
+    margin: 5px;  
+
+}
